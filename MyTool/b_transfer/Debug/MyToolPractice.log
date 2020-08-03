@@ -1,0 +1,4 @@
+﻿  f.c
+D:\VS2019\zhaojing_code\MyToolPractice\f.c(17,24): warning C4013: “pow”未定义；假设外部返回 int
+D:\VS2019\zhaojing_code\MyToolPractice\f.c(35,86): warning C4013: “fabs”未定义；假设外部返回 int
+  MyToolPractice.vcxproj -> D:\VS2019\zhaojing_code\MyToolPractice\Debug\MyToolPractice.exe

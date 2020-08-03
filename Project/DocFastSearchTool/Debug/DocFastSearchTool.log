@@ -1,0 +1,13 @@
+﻿  DataManager.cpp
+  DocFastSearchTool.cpp
+D:\ZJ_Coding\Project\DocFastSearchTool\DocFastSearchTool.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\ZJ_Coding\Project\DocFastSearchTool\Sysutil.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\ZJ_Coding\Project\DocFastSearchTool\Sysutil.h(1,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  ScanManager.cpp
+D:\ZJ_Coding\Project\DocFastSearchTool\DocFastSearchTool.cpp(1): message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+D:\ZJ_Coding\Project\DocFastSearchTool\Sysutil.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\ZJ_Coding\Project\DocFastSearchTool\Sysutil.h(1,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+D:\VS2019\VS\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(302): message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+D:\ZJ_Coding\Project\DocFastSearchTool\ScanManager.cpp(15,164): error C2146: 语法错误: 缺少“;”(在标识符“ocal_set”的前面)
+  正在生成代码...
+D:\ZJ_Coding\Project\DocFastSearchTool\ScanManager.cpp(15,164): error C2065: “ocal_set”: 未声明的标识符
