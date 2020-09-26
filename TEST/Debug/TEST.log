@@ -1,4 +1,2 @@
-﻿  test.cpp
-D:\VS2019\zhaojing_code\TEST\test.cpp(11,16): warning C4018: “<”: 有符号/无符号不匹配
-D:\VS2019\zhaojing_code\TEST\test.cpp(15,16): warning C4018: “<”: 有符号/无符号不匹配
-  TEST.vcxproj -> D:\VS2019\zhaojing_code\TEST\Debug\TEST.exe
+﻿  test1.cpp
+  TEST.vcxproj -> D:\ZJ_Code\TEST\Debug\TEST.exe

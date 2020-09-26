@@ -22,6 +22,10 @@ void BubbleSort(int a[], int sz)    //真的把数组传过去了（以数组名指针形式传的）
 			break;
 	}
 }
+int int_cmp(const void* p1,const void* p2)
+{
+	return *(int*)p1 > * (int*)p2;
+}
 void main()
 {
 	int a[5] = { 0 };
@@ -34,8 +38,8 @@ void main()
 	}
 	sz = sizeof(a) / sizeof(a[0]);
 
-	BubbleSort(a, sz);   //不仅要把数组名传过去，也要把元素个数传过去
-
+	//BubbleSort(a, sz);   //不仅要把数组名传过去，也要把元素个数传过去
+	qsort(a,sz,sizeof(int),int_cmp);
 
 
 
